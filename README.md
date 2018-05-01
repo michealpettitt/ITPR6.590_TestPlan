@@ -1,7 +1,7 @@
 # ITPR6.590_TestPlan
 Test plan for assignments
 
-Todo and Commits log  
+Todo list and Commits log  
 - [x] [Commits log](https://github.com/michealpettitt/ITPR6.590_TestPlan/commits/master)
 
 Excutive Summery  
