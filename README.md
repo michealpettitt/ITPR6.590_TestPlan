@@ -4,6 +4,7 @@ ITPR6.590 Software Testing
 EIT  
   
 Todo list and Commits log  
+- [x] [Commits log]()
 - [x] [Commits log](https://github.com/michealpettitt/ITPR6.590_TestPlan/commits/master)
 
 Excutive Summery  
