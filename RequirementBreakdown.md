@@ -48,3 +48,19 @@
 ### CTM11:
     If the Student is in a room directly to the North, South, East or West of the Ghost,  
     the program shall indicate that they hear the sounds of falling coins.
+      
+## Breakdown. 
+  
+### Class Breakdown. 
+  * ClassRoom
+    
+  * Student 
+    
+  * Treasure
+    
+  * Ghost  
+    
+  * TreasureGoblin 
+    
+
+  
