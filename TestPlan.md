@@ -36,3 +36,25 @@
     pre-built libraries, it will not test the systems that it is released on for performance or  
     efficiency issues.  
   
+### Constraints 
+    A lack of time and staffing for this project dictates the limitations on the testing and its  
+    Procedures, the lack of a pair reduces the ability to pair review the testing outcomes  
+    allowing for discrepancies that may otherwise be caught and reviewed. With the lack of a  
+    pair the time taken to produce the desired tests may take longer and affect the date that tests are completed.  
+  
+## Goals
+## Objectives
+## Test Items
+## Features to be tested
+## Features not to be tested
+## Approach
+## Iteams pass/Fail criteria
+## Suspension criteria and resumption requierments
+    Ask John about resumption requierments
+## Test deliverables
+## Testing Tasks
+## Enviromental needs
+## Responsibilities
+## Staffing and training needs
+    Is this requierd?
+## schedule
