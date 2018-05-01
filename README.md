@@ -14,4 +14,4 @@ Test Plan
 - [x] [Test Plan](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/TestPlan)
   
 Requierment Breakdown. 
--[x] [Breakdown](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/RequirementBreakdown.md)
+- [x] [Breakdown](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/RequirementBreakdown.md)
