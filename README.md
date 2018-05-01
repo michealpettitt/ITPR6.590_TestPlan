@@ -1,6 +1,6 @@
 # ITPR6.590_TestPlan
-Assignment 2 & 3
-Work by Micheal Pettitt  
+Assignment 2 & 3. 
+Work by Micheal Pettitt  
 ITPR6.590 Software Testing  
 EIT  
   
