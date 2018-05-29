@@ -30,7 +30,12 @@
       
     Resolved.  
 ### Ghost sticks to wall 008:  
-    After issue 007 resolved, ghost will enter finle array cell and not move. 
+    After issue 007 resolved, ghost will enter finale array cell and not move.  
+      
+    Resolved.
+### Ghost move 009: 
+    Ghost will move regardless to the key being pressed.
+    if a non specified key is pressed the ghost will still make its turn.
 
 
     
