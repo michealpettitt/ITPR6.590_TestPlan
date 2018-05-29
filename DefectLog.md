@@ -23,10 +23,14 @@
     No array error is given crashing the applicaton as what would be exspected in such situations.  
       
     Resolved.      
-### Index outside bounds 006:  
+### Index outside bounds 007:  
     After issue 006 resolved, Ghost will attempt to move out side the bounds of the arrays crashing  
     the application resoulting in the index outside of bounds error.  
     System.IndexOutOfRangeException: 'Index was outside the bounds of the array.  
+      
+    Resolved.  
+### Ghost jumps to (X 0, Y 0) 008:  
+    After issue 007 resolved, ghost will randomly jump to x an y value 0. 
 
 
     
