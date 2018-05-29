@@ -11,5 +11,17 @@
 ### Continuation move 003:  
     After the user has input a movment command changing direction, the "s" will move to the next room   
     in the previos direction and not commit to the move in the new direction.
-### Colision Detection 004:  
+### Collision Detection 004:  
+    when the s (student) is one room from the g (ghost) a collision is detected. detection should occoure  
+    when the ghost and the student share the same x & y values.  
+### Incorrect user inputs 005:  
+    When a user inputs any other keys other than the ones specified for use a warning text should inform  
+    the user oh the incorrect input. Input is failing to display or is displaying to fast to see.  
+### Incorrect movments Ghost 006:  
+    Ghost random position will only randomly count up on the y axis, eventualy taking the ghost  
+    out of viwe, continued inputs will show the y value exstending past the preset array size.  
+    No array error is given crashing the applicaton as what would be exspected in such situations.  
+      
+    Resolved.
+
     
