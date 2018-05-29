@@ -9,4 +9,4 @@
 * record all bugs as you find them
 * report resolved bugs and the fix
 * wright up assumptions to github
-* 
+* Clean up MakeArray Funchion split in to two parts
