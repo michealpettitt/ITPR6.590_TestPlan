@@ -22,6 +22,11 @@
     out of viwe, continued inputs will show the y value exstending past the preset array size.  
     No array error is given crashing the applicaton as what would be exspected in such situations.  
       
-    Resolved.
+    Resolved.      
+### Index outside bounds 006:  
+    After issue 006 resolved, Ghost will attempt to move out side the bounds of the arrays crashing  
+    the application resoulting in the index outside of bounds error.  
+    System.IndexOutOfRangeException: 'Index was outside the bounds of the array.  
+
 
     
