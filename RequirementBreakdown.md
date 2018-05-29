@@ -51,7 +51,7 @@
       
 ## Breakdown. 
   
-### Class Breakdown. 
+### Function Breakdown. 
   * ClassRoom
     
   * Student 
