@@ -9,4 +9,8 @@
 * record all bugs as you find them
 * report resolved bugs and the fix
 * wright up assumptions to github
-* Clean up MakeArray Funchion split in to two parts
+* Clean up MakeArray Funchion split in to two parts  
+* end game if ghost is meet 
+* store found trasure in a var  
+* compare if trasure was found befor the goblin, end game if not.  
+*
