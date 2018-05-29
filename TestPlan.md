@@ -49,12 +49,24 @@
 ## Features not to be tested
 ## Approach
 ## Iteams pass/Fail criteria
-## Suspension criteria and resumption requierments
+## Suspension criteria and resumption requirements
     Ask John about resumption requierments
 ## Test deliverables
 ## Testing Tasks
 ## Enviromental needs
+    Not requierd
 ## Responsibilities
+    All aspects of thes documentation will be carried out by the developer.
+    The requierments for the developer to complecte the testing of this application will be as follows:  
+* Develope testing requierment.
+* Develope a testing plan.
+* Document any assuptions and possible issues with Application.
+* Keep a error/issue log of any issues that occure during and after development.
+* Develop Application.
+* Development of unit tests,
+* Conduct and record unit test resolts.
+* Summiting final report to client By the 8 june.
+
 ## Staffing and training needs
-    Is this requierd?
+    Not requierd
 ## schedule
