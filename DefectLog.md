@@ -29,8 +29,8 @@
     System.IndexOutOfRangeException: 'Index was outside the bounds of the array.  
       
     Resolved.  
-### Ghost jumps to (X 0, Y 0) 008:  
-    After issue 007 resolved, ghost will randomly jump to x an y value 0. 
+### Ghost sticks to wall 008:  
+    After issue 007 resolved, ghost will enter finle array cell and not move. 
 
 
     
