@@ -55,7 +55,12 @@ This unit test plan is only to test the functional requierments on the applictio
   
 # 3.0 Test case specifications  
 
-
+|Project Name|Crazy Treasure Maze||||||||  
+|---|---|---|---|---|---|---|---|---| 
+|||||||||| 
+|<b>Test case ID</b>|<b>Test case description</b>|<b>Positive/Negative</b>|<b>Precondition|<b>Test data</b>|<b>Steps|<b>Expected result</b>|<b>Status|<b>Actual Result</b>|  
+|---|---|---|---|---|---|---|---|---|    
+||||||||||  
   
 # 4.0 Unit Test Deliverables
   
