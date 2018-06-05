@@ -40,8 +40,18 @@ No software used to develope the application will be tested, plugins and dependa
 This unit test plan is only to test the functional requierments on the appliction it self.
   
 # 3.0 Entry /Exit Criteria
-## Entry Criteria
-
+## Entry Criteria  
+  * Uint test plan for application hase been created and approved.  
+  * Development of application is complete.  
+  * Application meets the requierments of the project.
+  * All criteria for test cases are developed and approved, testing data and conditions ready to execute.
+  * Resourse for conduting unit tests are ready.  
+  
+## Exit Criteria  
+  * All Documentation is complete.
+  * Records of all issues have been made.
+  * All unit test have been executed.
+  * All funtional requierments have passed tests.
   
 # 3.0 Test case specifications  
 
