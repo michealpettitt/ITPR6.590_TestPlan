@@ -10,5 +10,6 @@ One example of this is the way the function to display the 10x10 matrix was buil
  
 ### Placing functions in the incorrect location or doubling up code blocks  
 The duplication of the inbuilt Random function caused large issues with the random movements of the ghost character. It was though that adding a new instance of the random function to the function that controlled the movements of the ghost would be the best option only to cause the ghost to walk out of the 10x10 matrix.
-The out come to this was an edge case that would have been easily avoided if the documentation of the random function and the requirements of the game had been better understood.
-
+The out come to this was an edge case that would have been easily avoided if the documentation of the random function and the requirements of the game had been better understood.  
+  
+![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic1.png)  
