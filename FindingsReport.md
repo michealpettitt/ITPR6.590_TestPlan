@@ -13,3 +13,17 @@ The duplication of the inbuilt Random function caused large issues with the rand
 The out come to this was an edge case that would have been easily avoided if the documentation of the random function and the requirements of the game had been better understood.  
   
 ![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic1.png)  
+  
+### Placing functions in the incorrect location or doubling up code blocks  
+The duplication of the inbuilt Random function caused large issues with the random movements of the ghost character. It was though that adding a new instance of the random function to the function that controlled the movements of the ghost would be the best option only to cause the ghost to walk out of the 10x10 matrix.
+The out come to this was an edge case that would have been easily avoided if the documentation of the random function and the requirements of the game had been better understood.
+ 
+## Unclear Documentation By MSDN
+### Unit testing libraries  
+The installation of NUnit and NUget was well documented within the MSDN documentation and all steeps to produce unit test had been followed, when it came to try to use the main project as a library, the functions could not be accessed. Meany hours had been wasted trying to figure out and get the testing operational.
+The solution turned out to be relatively simple, the main project class needed to be set to public and so did any functions wishing to be tested, after that point unit testing worked flawless.  
+  
+![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic2.png)  
+![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic3.png)  
+
+
