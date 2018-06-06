@@ -17,7 +17,7 @@
 ### Incorrect user inputs 005:  
     When a user inputs any other keys other than the ones specified for use a warning text should inform  
     the user oh the incorrect input. Input is failing to display or is displaying to fast to see.  
-### Incorrect movments Ghost 006:  
+### Incorrect movements Ghost 006:  
     Ghost random position will only randomly count up on the y axis, eventualy taking the ghost  
     out of viwe, continued inputs will show the y value exstending past the preset array size.  
     No array error is given crashing the applicaton as what would be exspected in such situations.  
@@ -37,5 +37,6 @@
     Ghost will move regardless to the key being pressed.
     if a non specified key is pressed the ghost will still make its turn.
 
+  
 
     
