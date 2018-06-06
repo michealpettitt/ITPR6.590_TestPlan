@@ -66,9 +66,12 @@
 * prevent future defects
 * All expected results match the actual results.
   
-## Test Items
+## Test Items  
+   Test iteams should executs as to the Software Requierment Specificatiuons for  
+   the application Crazy Treasure Maze.
+   
 ## Features to be tested  
-    The folllowing features are to be tested with unit testing.
+    The following features are to be tested with unit testing.
       
 |<b>ID</b>|<b>Features Description</b>|<b>Priority</b>|  
 |---------|---------------------------|---------------|  
@@ -87,7 +90,23 @@
 ## Features not to be tested
     this test plan will not test any hardware requierments that may affect speed or operation 
     to the application, it will not test development software or framework dependinces.  
-## Approach
+## Approach  
+    The following is the order in which this project will be devaloped and tested.  
+* Install ToDoList application and out line the project schedual, 
+    add milstones and completion dates.
+* For better understanding this will bedevalpoed as a white box project.  
+* Read throught and brakedown the software requierment specifics.
+* A list of assumption established and leasoned with the client.  
+* A unit test plan developed to test the functional requierments of the project.
+* software devalopment starts along with inital unit tests.  
+* issue loge kept to maintain issue resolve.  
+* unit test resolts and reports documentsed.  
+* Reports on findings.  
+
+    A Github repository has been established to recored the deliverbles of this project.  
+    Because of time constraints The devalopment approch will be that closs to TDD, the unit tests  
+    will be devaloped in conjunction with the application, this in a sence is not a true TDD form 
+    But suits the constraints of this project.
 ## Iteams pass/Fail criteria
 
 ## Test deliverables
