@@ -16,14 +16,23 @@
   
   
 
-|<b>Documentation</b>|<b>Version</b>|<b>Date</>|  
+|<b>Documentation</b>|<b>Version</b>|<b>Date</b>|  
 |--------------------|--------------|----------|  
-||||
-||||
-||||
-||||
+|Master Test Plan|1.0|06/06/2018|
+|Software Requierment Specifics|1.0|06/06/2018|
+|Crazy Treasure Maze System|1.0|06/06/2018|
+
   
 # Contents
+  
+1.0 Introduction  
+2.0 Features to be Tested and not to be Tested  
+3.0 Entry /Exit Criteria   
+4.0 Test case specifications   
+5.0 Unit Test Deliverables   
+6.0 Remaining Test Tasks  
+  
+ 
   
 # 1.0 Introduction  
 This Document has been developed to describe the unite test plan for "Crazy Treasure Maze". this thest plan out lines the  
@@ -53,13 +62,13 @@ This unit test plan is only to test the functional requierments on the applictio
   * All criteria for test cases are developed and approved, testing data and conditions ready to execute.
   * Resourse for conduting unit tests are ready.  
   
-## Exit Criteria  
+## 4.0 Exit Criteria  
   * All Documentation is complete.
   * Records of all issues have been made.
   * All unit test have been executed.
   * All funtional requierments have passed tests.
   
-# 3.0 Test case specifications  
+# 5.0 Test case specifications  
 
 |Project Name|Crazy Treasure Maze||||||||  
 |---|---|---|---|---|---|---|---|---| 
@@ -68,6 +77,21 @@ This unit test plan is only to test the functional requierments on the applictio
 |---|---|---|---|---|---|---|---|---|    
 ||||||||||  
   
-# 4.0 Unit Test Deliverables
+# 6.0 Unit Test Deliverables  
+
+|<b>No.</b>|<b>Deliverable Name</b>|<b>Auther</b>|<b>Reviewer</b>|  
+|------------|-----------------------|-------------|---------------|  
+|1|Unit Test Plan|Micheal Pettit|Client|
+|2|Test Cases Execution Logs|Micheal Pettitt|Client|
+|3|Test incident report|Micheal Pettitt|Client|  
   
-# 5.0 Remaining Test Tasks
+# 5.0 Remaining Test Tasks  
+None to comment on at this date  
+  
+# 7.0 Schedule (Test Milestone)
+|<b>No.</b>|<b>Task Description</b>|<b>Start Date</b>|<b>Due Date</b>|<b>Deliverable</b>|  
+|----------|-----------------------|-----------------|---------------|------------------|
+|1|Create Unit Test Plan|14/05/2018|22/05/2018|Unit Test Plan Virsion 1.0|
+|2|Create Unit Test Cases|23/05/2018|28/05/2018|Unit Test Case and update to unit Test Plan Virsion 1.0|
+|3|Build the Test|31/05/2018|05/05/23018|Execute logs and commit on Github|  
+
