@@ -23,3 +23,6 @@ Unit Test Plan.
   
 Defect Log
 - [x] [DefectLog](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/DefectLog.me)
+  
+Assumptions
+- [x] [Assumption](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/Assumptions.md)
