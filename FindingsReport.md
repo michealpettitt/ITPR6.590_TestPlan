@@ -26,4 +26,13 @@ The solution turned out to be relatively simple, the main project class needed t
 ![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic2.png)  
 ![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic3.png)  
 
+## Failed Tests
+### Matrix test Failure 
+The unit test to produce the 10x10 matrix was set to fail purposely on the first run, it was witnessed that the actual output diagnosed was what I would have expected. On updating the test to ideally get a passed, the test resulted in another failure, this went about in circles till Bug Test (an inbuilt bug testing feature in visual studio) was run, at that point on inspecting the actual output it was also correct even though it failed the test. From this I copied and pasted the output into the expected output variable in my unit test where it then still failed.  
+  
+![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic4.png)  
+![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic5.png)  
+
+
+
 
