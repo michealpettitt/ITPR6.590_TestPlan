@@ -1,0 +1,14 @@
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\TreasureMazeTest.deps.json
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\TreasureMazeTest.dll
+D:\software testing\Game\TreasureMazeTest\obj\Debug\netstandard2.0\TreasureMazeTest.csprojResolveAssemblyReference.cache
+D:\software testing\Game\TreasureMazeTest\obj\Debug\netstandard2.0\TreasureMazeTest.csproj.CoreCompileInputs.cache
+D:\software testing\Game\TreasureMazeTest\obj\Debug\netstandard2.0\TreasureMazeTest.AssemblyInfoInputs.cache
+D:\software testing\Game\TreasureMazeTest\obj\Debug\netstandard2.0\TreasureMazeTest.AssemblyInfo.cs
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\nunit.engine.dll
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\nunit.engine.api.dll
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\Mono.Cecil.dll
+D:\software testing\Game\TreasureMazeTest\bin\Debug\netstandard2.0\TreasureMazeTest.pdb
+D:\software testing\Game\TreasureMazeTest\obj\Debug\netstandard2.0\TreasureMazeTest.dll
+D:\software testing\Game\TreasureMazeTest\obj\Debug\netstandard2.0\TreasureMazeTest.pdb
