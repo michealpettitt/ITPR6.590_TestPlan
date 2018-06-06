@@ -40,21 +40,59 @@
     A lack of time and staffing for this project dictates the limitations on the testing and its  
     Procedures, the lack of a pair reduces the ability to pair review the testing outcomes  
     allowing for discrepancies that may otherwise be caught and reviewed. With the lack of a  
-    pair the time taken to produce the desired tests may take longer and affect the date that tests are completed.  
+    pair the time taken to produce the desired tests may take longer and affect the date that 
+    tests are completed.  
   
-## Goals
-## Objectives
+## Goals  
+    The main Goal of this testing plan is to "Verify and validate" the application,  
+    this will be achieved by testing each funtional requierment, sub goals will 
+    be meet during the testing that will inculed making the application fail tests, 
+    making the application pass tests, eliminating aterfacts from the code, 
+    building robust program and prventing future issues/bugsand keeping to project milstones.
+    
+    Goals for this project:
+* Finding defect that have been created by developer during development.
+* Producing a Quality application.
+* prevent defects.
+* making sure the end application meets the requierments of the project.
+* To eliminate as many defects in the application by the release date.
+      
+     
+## Objectives  
+* Povide a appliucation that meets requiermenst
+* show evadince of testing an testing procedures
+* buld a tangible testing plane
+* eliminate as meany bugs, issues and defects as posibly
+* prevent future defects
+* All expected results match the actual results.
+  
 ## Test Items
-## Features to be tested
+## Features to be tested  
+    The folllowing features are to be tested with unit testing.
+      
+|<b>ID</b>|<b>Features Description</b>|<b>Priority</b>|  
+|---------|---------------------------|---------------|  
+|1|return the correct format of the 10 x 10 maxrix|High|  
+|2|user input is equal to the movment to the student|High|  
+|3|edge case in a user attemps to move outside the matrix a warning is returnd|Medium|  
+|4|edge case ghost cant move out side of the 10x10 matrix|High|  
+|5|application should accept a 32bit sind int|low| 
+|6|that the ghost moves in a random direction during its moves|High|  
+|7|test location of X, Y  for ghost, goblin, treasure|Low|  
+|8|edge case a user cant move outside matrix|High|  
+|9|a student is in a room next to the Goblin|Low|  
+|10|a student is in a room next to the ghost|Low|  
+|11|a student is in a room next to the treasure|Low|  
+    
 ## Features not to be tested
+    this test plan will not test any hardware requierments that may affect speed or operation 
+    to the application, it will not test development software or framework dependinces.  
 ## Approach
 ## Iteams pass/Fail criteria
-## Suspension criteria and resumption requirements
-    Ask John about resumption requierments
+
 ## Test deliverables
 ## Testing Tasks
-## Enviromental needs
-    Not requierd
+
 ## Responsibilities
     All aspects of thes documentation will be carried out by the developer.
     The requierments for the developer to complecte the testing of this application will be as follows:  
@@ -67,6 +105,9 @@
 * Conduct and record unit test resolts.
 * Summiting final report to client By the 8 june.
 
-## Staffing and training needs
-    Not requierd
-## schedule
+## schedule  
+    The schedualing for this project will be ketp and main taind via the ToDoList aplication  
+    and will be added to the Github repository  
+    for this project, as for the limitations provided by only having one member  
+    in the development and testing so tasks that maybe deamed  
+    less critical may be postponed till such a point they can be completed.
