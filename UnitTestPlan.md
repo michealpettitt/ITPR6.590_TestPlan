@@ -77,12 +77,24 @@ This unit test plan is only to test the functional requierments on the applictio
 |||||||    
 |TC01_Detecton_01|To test if valuse are the same return true|0,0,0,0|Run Test|true|PASS|true| 
 |TC01_Detecton_02|To test if valuse are not the same return false|1,2,3,4|Run Test|false|PASS|true|  
+|||||||  
 |TC02_DetectonXY_01|To test if -1 is returned|1,2,3,4|Run Test|-1|PASS|-1|  
 |TC02_DetectonXY_02|To test if y-1 is returned|5,4,5,5|Run Test|4|PASS|4|  
 |TC02_DetectonXY_03|To test if y+1 is returned|5,6,5,5|Run Test|6|PASS|6|  
 |TC02_DetectonXY_04|To test if x-1 is returned|4,5,5,5|Run Test|4|PASS|4|   
 |TC02_DetectonXY_05|To test if x+1 is returned|6,5,5,5|Run Test|6|PASS|6| 
-
+|||||||
+|TC03_MoveGhost_01|To test if a seeded value is returned|1,1|2,1|PASS|2,1|
+|TC03_MoveGhost_02|To test if a seeded value is returned|5,1|6,1|PASS|6,1|
+|TC03_MoveGhost_03|To test if a seeded value is returned|3,5|3,4|PASS|3,4|
+|TC03_MoveGhost_04|To test if a seeded value is returned|4,7|4,6|PASS|4,6|  
+|||||||  
+|TC04_MakeArray_01|Test that a 10x10 maxtrix is returned|9,0,3,4|10x10 maxtrix|PASS|10x10 matrix|  
+|||||||  
+|TC05_GetMessage_01|To test if a message is returned|true|Hello World|PASS|Hello World|  
+|TC05_GetMessage_02|To test if a empty string is returnd|false|""|PASS|""|  
+|||||||  
+|TC_Title_01|To test if a string is returned||aString|PASS|aString|
 # 6.0 Unit Test Deliverables  
 
 |<b>No.</b>|<b>Deliverable Name</b>|<b>Auther</b>|<b>Reviewer</b>|  
