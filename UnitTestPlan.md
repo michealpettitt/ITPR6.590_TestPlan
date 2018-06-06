@@ -73,10 +73,16 @@ This unit test plan is only to test the functional requierments on the applictio
 |Project Name|Crazy Treasure Maze||||||||  
 |---|---|---|---|---|---|---|---|---| 
 |||||||||| 
-|<b>Test case ID</b>|<b>Test case description</b>|<b>Positive/Negative</b>|<b>Precondition|<b>Test data</b>|<b>Steps|<b>Expected result</b>|<b>Status|<b>Actual Result</b>|  
+|<b>Test case ID</b>|<b>Test case description</b>|<b>Input Data</b>|<b>Steps|<b>Expected result</b>|<b>Status|<b>Actual Result</b>|  
 |---|---|---|---|---|---|---|---|---|    
-||||||||||  
-  
+|TC01_Detecton_01|To test if valuse are the same return true|0,0,0,0|Run Test|true|PASS|true| 
+|TC01_Detecton_02|To test if valuse are not the same return false|1,2,3,4|Run Test|false|PASS|true|  
+|TC02_DetectonXY_01|To test if -1 is returned|1,2,3,4|Run Test|-1|PASS|-1|  
+|TC02_DetectonXY_02|To test if y-1 is returned|5,4,5,5|Run Test|4|PASS|4|  
+|TC02_DetectonXY_03|To test if y+1 is returned|5,6,5,5|Run Test|6|PASS|6|  
+|TC02_DetectonXY_04|To test if x-1 is returned|4,5,5,5|Run Test|4|PASS|4|   
+|TC02_DetectonXY_05|To test if x+1 is returned|6,5,5,5|Run Test|6|PASS|6| 
+
 # 6.0 Unit Test Deliverables  
 
 |<b>No.</b>|<b>Deliverable Name</b>|<b>Auther</b>|<b>Reviewer</b>|  
