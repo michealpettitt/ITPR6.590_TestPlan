@@ -26,3 +26,6 @@ Defect Log
   
 Assumptions
 - [x] [Assumption](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/Assumptions.md)
+  
+Findings  
+- [x] [Findings Report](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/FindingsReport.md)
