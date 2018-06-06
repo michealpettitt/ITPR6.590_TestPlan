@@ -29,8 +29,14 @@ Findings
 - [x] [Findings Report](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/FindingsReport.md)
   
 Unit Tests  
-- [x] [Unit Test](https://github.com/michealpettitt/ITPR6.590_TestPlan/tree/master/CrazyMazeUnitTest)
- 
+- [x] [Unit Test](https://github.com/michealpettitt/ITPR6.590_TestPlan/tree/master/CrazyMazeUnitTest)  
+  
+Crazy Treasure Maze
+- [x] [Crazy Treasure Maze](https://github.com/michealpettitt/ITPR6.590_TestPlan/tree/master/Crazy%20Treasure%20Maze)
+  
+Packages  
+- [x] [Packages](https://github.com/michealpettitt/ITPR6.590_TestPlan/tree/master/packages)  
+
 Todo list and Commits log  
 - [x] [ToDo](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/ToDos.md)
 - [x] [Commits log](https://github.com/michealpettitt/ITPR6.590_TestPlan/commits/master)
