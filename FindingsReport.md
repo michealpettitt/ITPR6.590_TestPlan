@@ -33,6 +33,19 @@ The unit test to produce the 10x10 matrix was set to fail purposely on the first
 ![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic4.png)  
 ![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic5.png)  
 
+To fix this error required putting the matrix all on a single line, as shown in the following image, I am unsure why this would happen but has resolved they issue.
+
+![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic6.png) 
+![](https://github.com/michealpettitt/ITPR6.590_TestPlan/blob/master/pic7.png)  
+  
+## What could have done better?
+Time management and working with a team member would have lightened up the work load. Also have a built a better understanding of certain requirements sooner as well as understanding implementing unit test frame works soon.
+
+## Conclusion
+The Conclusion to this, is that there is now a better understanding in how software testing is conducted, it has also aided in establish a more efficient way to conduct programming tasks in the future.
+It is felt that all though some minor features had been left out of the application that it meets requirements of the testing scenario.
+
+
 
 
 
