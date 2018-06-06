@@ -1,6 +1,19 @@
 # ITPR6.590 - Test Plan
-
-## Introduction 
+# Contents  
+* 1.0 Introduction   
+* 2.0 Goals    
+* 3.0 Objectives    
+* 4.0 Test Items  
+* 5.0 Features to be tested  
+* 6.0 Features not to be tested  
+* 7.0 Approach  
+* 8.0 Iteams pass/Fail criteria  
+* 9.0 Test deliverables     
+* 10.0 Responsibilities  
+* 11.0 schedule   
+  
+  
+## 1.0 Introduction 
 ### Objective
     This Document has been established to describe the testing requirements and outcomes of the project  
     “Crazy Treasure Maze”.  
@@ -43,7 +56,7 @@
     pair the time taken to produce the desired tests may take longer and affect the date that 
     tests are completed.  
   
-## Goals  
+## 2.0 Goals  
     The main Goal of this testing plan is to "Verify and validate" the application,  
     this will be achieved by testing each funtional requierment, sub goals will 
     be meet during the testing that will inculed making the application fail tests, 
@@ -58,7 +71,7 @@
 * To eliminate as many defects in the application by the release date.
       
      
-## Objectives  
+## 3.0 Objectives  
 * Povide a appliucation that meets requiermenst
 * show evadince of testing an testing procedures
 * buld a tangible testing plane
@@ -66,11 +79,11 @@
 * prevent future defects
 * All expected results match the actual results.
   
-## Test Items  
+## 4.0 Test Items  
    Test iteams should executs as to the Software Requierment Specificatiuons for  
    the application Crazy Treasure Maze.
    
-## Features to be tested  
+## 5.0 Features to be tested  
     The following features are to be tested with unit testing.
       
 |<b>ID</b>|<b>Features Description</b>|<b>Priority</b>|  
@@ -87,10 +100,10 @@
 |10|a student is in a room next to the ghost|Low|  
 |11|a student is in a room next to the treasure|Low|  
     
-## Features not to be tested
+## 6.0 Features not to be tested
     this test plan will not test any hardware requierments that may affect speed or operation 
     to the application, it will not test development software or framework dependinces.  
-## Approach  
+## 7.0 Approach  
     The following is the order in which this project will be devaloped and tested.  
 * Install ToDoList application and out line the project schedual, 
     add milstones and completion dates.
@@ -107,12 +120,25 @@
     Because of time constraints The devalopment approch will be that closs to TDD, the unit tests  
     will be devaloped in conjunction with the application, this in a sence is not a true TDD form 
     But suits the constraints of this project.
-## Iteams pass/Fail criteria
+## 8.0 Iteams pass/Fail criteria  
+* All test are exauted.
+* Any magoure defects that could affect relase are resolved.  
+* repoting on unit tests are accrete.  
+* Documentation is up to date and matching the rquierments of the project.  
+* A recored of all low level tests not completed befor due date are recored. 
+* Application operates to the requierments of the Software Requierment Specification.
 
-## Test deliverables
-## Testing Tasks
+## 9.0 Test deliverables  
+|<b>No.</b>|<b>Deliverables</b>|<b>Author</b>|<b>Reviewer</b>|  
+|----------|-------------------|-------------|---------------|  
+|1|Master Test Plan|Micheal Pettitt|Client|  
+|2|Unit Test Plan|Micheal Pettitt|Client|  
+|3|Requirement Traceability matrix|Micheal Pettitt|Client|  
+|4|Evidence of the tests|Micheal Pettitt|Client|  
+|5|Findings report|Micheal Pettitt|Client|  
+  
 
-## Responsibilities
+## 10.0 Responsibilities
     All aspects of thes documentation will be carried out by the developer.
     The requierments for the developer to complecte the testing of this application will be as follows:  
 * Develope testing requierment.
@@ -124,7 +150,7 @@
 * Conduct and record unit test resolts.
 * Summiting final report to client By the 8 june.
 
-## schedule  
+## 11.0 schedule  
     The schedualing for this project will be ketp and main taind via the ToDoList aplication  
     and will be added to the Github repository  
     for this project, as for the limitations provided by only having one member  
