@@ -70,11 +70,11 @@ This unit test plan is only to test the functional requierments on the applictio
   
 # 5.0 Test case specifications  
 
-|Project Name|Crazy Treasure Maze||||||||  
-|---|---|---|---|---|---|---|---|---| 
-|||||||||| 
+|Project Name|Crazy Treasure Maze|||||    
+|---|---|---|---|---|---|   
+|||||||  
 |<b>Test case ID</b>|<b>Test case description</b>|<b>Input Data</b>|<b>Steps|<b>Expected result</b>|<b>Status|<b>Actual Result</b>|  
-|---|---|---|---|---|---|---|---|---|    
+|||||||    
 |TC01_Detecton_01|To test if valuse are the same return true|0,0,0,0|Run Test|true|PASS|true| 
 |TC01_Detecton_02|To test if valuse are not the same return false|1,2,3,4|Run Test|false|PASS|true|  
 |TC02_DetectonXY_01|To test if -1 is returned|1,2,3,4|Run Test|-1|PASS|-1|  
